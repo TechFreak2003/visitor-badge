@@ -12,7 +12,7 @@ A badge generator service to count visitors of your markdown file.
 
 [The story of visitor badge](https://medium.com/@1link.fun/the-story-of-visitor-badge-1bded5ed56b4)
 
-Examples:
+Examples:- 
 
 - default style
 
